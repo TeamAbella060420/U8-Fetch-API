@@ -4,4 +4,5 @@
 2. Displaying the Content - we'll display the image on the page, and fetch the list of breeds to display the <select> menu options.
 3. Create a Reusable Fetch Function - simplify your fetch requests by creating a reusable data-fetching function that runs the fetch, returns the response in JSON, and more. 
 4. Handling Errors - What would happen if a fetch gets rejected or returns in a failed state? To handle these types of errors, you use the catch() method, which deals with rejected cases only.
+5. Manage Multiple Requests with Promise.all - 
  
